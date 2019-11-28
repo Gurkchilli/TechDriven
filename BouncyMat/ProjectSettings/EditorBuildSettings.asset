@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BouncyMat.unity
+    guid: f90cbb4c515b949459262eaa3c350611
   m_configObjects: {}
